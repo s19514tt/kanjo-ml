@@ -1,0 +1,6 @@
+,device_id,num_rows_battery,length_of_charge_minutes,epoch,weekday,group,datetime_EST
+0,a28a128d-afa9-4eb5-ab51-0e059e9aadb9,1,889.398,allday,,3_hour,2021-09-10 09:00:00
+1,a28a128d-afa9-4eb5-ab51-0e059e9aadb9,2,497.841,allday,,3_hour,2021-09-11 21:00:00
+2,a28a128d-afa9-4eb5-ab51-0e059e9aadb9,1,553.447,allday,,3_hour,2021-09-12 21:00:00
+3,a28a128d-afa9-4eb5-ab51-0e059e9aadb9,2,400.064,allday,,3_hour,2021-09-14 00:00:00
+4,a28a128d-afa9-4eb5-ab51-0e059e9aadb9,1,9.65668,allday,,3_hour,2021-09-15 03:00:00
